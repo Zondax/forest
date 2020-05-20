@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["beacon_entries_for_block",""]],"struct":[["BeaconEntry","The result from getting an entry from Drand."],["DistPublic","Coeffiencients of the publicly available Drand keys. This is shared by all participants on the Drand network."],["DrandBeacon",""],["MockBeacon",""]],"trait":[["Beacon",""]]});
